@@ -59,10 +59,6 @@ H2 database is in-memory, so data will reset when backend restarts.
 To persist real data, connect a MySQL/PostgreSQL database and update application.properties.
 
 
-Fully ready to extend: add authentication, product images, payment gateway, etc.
-📸 Preview
-
-(Add screenshots here to make it visually appealing!)
 
 👩‍💻 Tech Stack
 Frontend: React, Vite, JavaScript, CSS
