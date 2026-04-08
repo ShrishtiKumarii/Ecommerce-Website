@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class EcomProApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(EcomProApplication.class, args);
 	}
 
